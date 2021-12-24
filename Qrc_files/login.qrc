@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>../ui_images/Prediction WIndow.jpg</file>
+    <file>../ui_images/Capture window.jpg</file>
+    <file>../ui_images/classification.jpg</file>
+    <file>../ui_images/Image work.jpg</file>
+    <file>../ui_images/Login credentials.jpg</file>
+    <file>../ui_images/Login.jpg</file>
+    <file>../ui_images/Model selection.jpg</file>
+    <file>../ui_images/Common Window.jpg</file>
+    <file>../ui_images/sample collection(MAD).jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>
